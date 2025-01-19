@@ -67,4 +67,23 @@ lib/
 │   └── quiz_service.dart    # Fetches quiz data
 └── widgets/                 # Custom widgets (if any)
 
+## Screenshots
+
+1. Home Screen ![Screenshot 2025-01-20 005625](https://github.com/user-attachments/assets/22295b1a-a13d-413d-8fb7-75397f076665)
+2. Quiz Screen ![Screenshot 2025-01-20 005707](https://github.com/user-attachments/assets/3b03a4a9-aebe-45ae-a958-1cf2103e3025)
+3. Quiz Completion Screen ![Screenshot 2025-01-20 005749](https://github.com/user-attachments/assets/34df3c2d-bfaa-45f2-87ee-1768b3d325c7)
+
+## Vedio link
+1. Chrome (https://drive.google.com/file/d/18fmhCaYJqZsKptPDff-iP_SNdZGgAPfR/view?usp=drive_link)
+2. emulator (https://drive.google.com/file/d/1bFg7ZRI5RBssGkujSXaevNsdDZ55AWj8/view?usp=sharing)
+
+
+## Future Enhancements
+- Add support for multiple quiz categories.
+- Implement user profiles and leaderboards.
+- Include a timer for each question to increase difficulty.
+- Allow offline quiz play with locally stored data.
+
+
+
 
