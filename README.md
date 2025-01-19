@@ -53,4 +53,18 @@ The **Quiz App** allows users to test their knowledge through a series of multip
    ```bash
    flutter run
    ```
+## Project Structure
+lib/
+├── main.dart                # Entry point of the app
+├── screens/                 # UI screens
+│   ├── home_screen.dart     # Home screen UI
+│   └── quiz_screen.dart     # Quiz screen UI
+├── providers/               # State management
+│   └── quiz_provider.dart   # Provider for quiz data
+├── models/                  # Data models
+│   └── quiz.dart            # Quiz, Question, and Option models
+├── services/                # API services
+│   └── quiz_service.dart    # Fetches quiz data
+└── widgets/                 # Custom widgets (if any)
+
 
